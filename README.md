@@ -22,4 +22,5 @@ Script-Client: Mr. Vitalik
 3. Trophies Brawlers
 4. Shop
 5. Power Play
+6. LeaderBoard Brawlers 
 
