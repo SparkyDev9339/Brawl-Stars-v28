@@ -10,14 +10,14 @@ Script-Client: Mr. Vitalik
 [APK with offline battles](https://mega.nz/file/aCoz2aZZ#b4hJPUNnY_dikGuUmJO3ttJfMmwQOetSDlxrg-1_kZc)
 
 # Another
-Uping trophies
-offline battles
-Leaderboard
+1. Uping trophies
+2. offline battles
+3. Leaderboard
 
 # Coming soon to update
-Boxes
-Clubs
-Trophies Brawlers
-Shop
-Power Play
+1. Boxes
+2. Clubs
+3. Trophies Brawlers
+4. Shop
+5. Power Play
 
