@@ -1,7 +1,7 @@
 # Brawl-Stars-v28
 Server: Sparky and VanyaDev
 Script-Client: Mr. Vitalik
-#ScreenShot
+# ScreenShot
 ![ScreenShot](https://cdn.discordapp.com/attachments/817282221177569332/817717138256560188/Screenshot_20210306-131235_Modern_Brawl.jpg)
 ![ScreenShot](IMG_20220606_103755_702.jpg)
 ![ScreenShot](IMG_20220606_103753_419.jpg)
