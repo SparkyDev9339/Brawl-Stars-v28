@@ -1,5 +1,6 @@
 # Brawl-Stars-v28
 Server: Sparky and VanyaDev
+Script-Client: Mr. Vitalik
 #ScreenShot
 ![ScreenShot](https://cdn.discordapp.com/attachments/817282221177569332/817717138256560188/Screenshot_20210306-131235_Modern_Brawl.jpg) 
 
@@ -12,3 +13,11 @@ Server: Sparky and VanyaDev
 Uping trophies
 offline battles
 Leaderboard
+
+# Coming soon to update
+Boxes
+Clubs
+Trophies Brawlers
+Shop
+Power Play
+
