@@ -7,3 +7,8 @@ Server: Sparky and VanyaDev
 
 # Client
 [APK with offline battles](https://mega.nz/file/aCoz2aZZ#b4hJPUNnY_dikGuUmJO3ttJfMmwQOetSDlxrg-1_kZc)
+
+# Another
+Uping trophies
+offline battles
+Leaderboard
